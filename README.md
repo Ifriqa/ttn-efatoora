@@ -10,7 +10,7 @@ Application desktop locale pour générer, signer et envoyer des factures élect
 
 ## 🚀 Télécharger
 
-👉 [Télécharger la dernière version](https://github.com/Ifriqa/ttn-efatoora/releases/latest)
+👉 [Télécharger la dernière version](https://github.com/Ifriqa/ttn-efatoora/releases/latest/download/TTN-eFatoora_stable.exe)
 
 ---
 
