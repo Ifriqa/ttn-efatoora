@@ -8,6 +8,15 @@ Application desktop locale pour générer, signer et envoyer des factures élect
 
 ---
 
+## 🌐 Liens officiels
+
+- Site principal : https://ifriqa.com
+- Page produit : https://ifriqa.com/products/ttn-efatoora
+- GitHub Pages : https://ifriqa.github.io/ttn-efatoora/
+- Releases : https://github.com/Ifriqa/ttn-efatoora/releases
+
+---
+
 ## 🚀 Télécharger
 
 👉 [Télécharger la dernière version](https://github.com/Ifriqa/ttn-efatoora/releases/latest/download/TTN-eFatoora_stable.exe)
@@ -105,4 +114,4 @@ Ifriqa développe des outils de conformité et d’automatisation :
 - Applications locales (local-first)
 - Outils de contrôle et d’audit
 
----
+🌐 Site officiel : https://ifriqa.com
